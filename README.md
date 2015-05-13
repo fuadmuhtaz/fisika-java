@@ -3,7 +3,7 @@ Tugas UTS Pemrograman I: Materi Fisika dengan Java
 
 <p>Program console yang dibuat dengan bahasa Java.
 <br/>Materi fisika :</p>
-<ul start="1">
+<ul>
 <li>GLB</li>
 <li>GLBB</li>
 <li>Gerak Jatuh Bebas</li>
